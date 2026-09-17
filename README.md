@@ -352,57 +352,96 @@ Finlogixx also recommends consulting a tax professional and checking the relevan
 
 ## ❓ Frequently Asked Questions
 
-### What is Finlogixx?
+<details>
+<summary><strong>What is Finlogixx?</strong></summary>
 
 Finlogixx is a brokerage and trading-services platform offering access to financial instruments including Forex, Spot Metals, Stocks and Futures, with additional cryptocurrency-related services published on its website.
 
-### What markets can I trade?
+</details>
+
+<details>
+<summary><strong>What markets can I trade?</strong></summary>
 
 The supplied company information lists **Forex, Spot Metals, Stocks and Futures** among the available instruments. Availability can depend on the account, jurisdiction and applicable trading conditions.
 
-### Is Finlogixx available worldwide?
+</details>
 
-No. Eligibility depends on jurisdiction and local laws. Finlogixx's website states that services are restricted in certain jurisdictions, including the **United States, Cuba, Iran, Myanmar, Russia, Syria, North Korea and Sudan**. citeturn1view0
+<details>
+<summary><strong>Is Finlogixx available worldwide?</strong></summary>
 
-### How old do I need to be?
+No. Eligibility depends on jurisdiction and local laws. Finlogixx's website states that services are restricted in certain jurisdictions, including the **United States, Cuba, Iran, Myanmar, Russia, Syria, North Korea and Sudan**.
 
-The Terms & Conditions state that users must be **18 or older** and legally permitted to use the services in their applicable jurisdiction. fileciteturn0file1L18-L24
+</details>
 
-### What documents are required for KYC?
+<details>
+<summary><strong>How old do I need to be?</strong></summary>
+
+The Terms & Conditions state that users must be **18 or older** and legally permitted to use the services in their applicable jurisdiction.
+
+</details>
+
+<details>
+<summary><strong>What documents are required for KYC?</strong></summary>
 
 Depending on the account and applicable requirements, Finlogixx may request proof of identity, proof of address and proof of card ownership.
 
-### How long does a withdrawal take?
+</details>
+
+<details>
+<summary><strong>How long does a withdrawal take?</strong></summary>
 
 The supplied withdrawal policy states that a withdrawal request is generally processed within **5 business days**, and after approval it may take up to **10 business days** for funds to reach a card or bank account. Third-party processing times can vary.
 
-### Can I withdraw to a third-party bank account?
+</details>
+
+<details>
+<summary><strong>Can I withdraw to a third-party bank account?</strong></summary>
 
 The withdrawal policy states that beneficiary details must match the trading-account name and that third-party transfer requests will not be processed, subject to applicable AML requirements.
 
-### Does Finlogixx offer customer support?
+</details>
 
-Yes. Finlogixx states that it provides dedicated customer support. The company information supplied for this README lists **24/5 support**, while the SMSF page describes its SMSF support team as available **24/7**. citeturn1view0
+<details>
+<summary><strong>Does Finlogixx offer customer support?</strong></summary>
 
-### Does Finlogixx provide investment advice?
+Yes. Finlogixx states that it provides dedicated customer support. The company information supplied for this README lists **24/5 support**, while the SMSF page describes its SMSF support team as available **24/7**.
+
+</details>
+
+<details>
+<summary><strong>Does Finlogixx provide investment advice?</strong></summary>
 
 The supplied Risk Disclosure states that Finlogixx does not manage or advise on investments. Clients are responsible for understanding the risks associated with their trading decisions.
 
-### Are trading profits guaranteed?
+</details>
+
+<details>
+<summary><strong>Are trading profits guaranteed?</strong></summary>
 
 No. Finlogixx's Risk Disclosure states that it does not guarantee account performance or profitability.
 
-### Is my information private?
+</details>
+
+<details>
+<summary><strong>Is my information private?</strong></summary>
 
 Finlogixx states that client personal information is protected and will not be sold, rented or traded, subject to disclosures required for legal, regulatory, fraud-prevention, compliance and service-delivery purposes.
 
-### What is SMSF crypto management?
+</details>
 
-Finlogixx provides a dedicated SMSF crypto-management service page describing crypto portfolio management, reporting, portfolio tracking, OTC access and crypto swaps. citeturn1view0
+<details>
+<summary><strong>What is SMSF crypto management?</strong></summary>
 
-### Where can I read the official policies?
+Finlogixx provides a dedicated SMSF crypto-management service page describing crypto portfolio management, reporting, portfolio tracking, OTC access and crypto swaps.
+
+</details>
+
+<details>
+<summary><strong>Where can I read the official policies?</strong></summary>
 
 The main legal and policy documents are linked in the **Official Resources** section below.
+
+</details>
 
 ---
 
